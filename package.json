@@ -1,0 +1,17 @@
+{
+  "name": "uke",
+  "version": "0.0.1",
+  "description": "Web app for UnKnown Endeavors",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "author": "Jason Mendes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "moment": "^2.10.6",
+    "morgan": "^1.6.1",
+    "serve-static": "^1.10.0"
+  }
+}
